@@ -1,2 +1,2 @@
 # cod.s
-study hard
+tps.lap
